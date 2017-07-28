@@ -1,24 +1,5 @@
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# AJAX Challenges
+Continue Adding to the Wildlife Tracker
+These challenges add more functionality to our Wildlife Tracker App.
+- Story: As a user, I can go to the animals listing page and add a new animal (no hard refresh or redirects).
+- Story: As a user, I can go to an animal's page and add a new sighting to that animal (no hard refresh or redirects).
